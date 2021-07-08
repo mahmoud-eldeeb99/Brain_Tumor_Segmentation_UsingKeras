@@ -1,7 +1,7 @@
 
-The source code for our paper "Attention-Guided Version of 2D UNet for Automatic Brain Tumor Segmentation"
+[comment]:The source code for our paper "Attention-Guided Version of 2D UNet for Automatic Brain Tumor Segmentation"
 
-Our paper can be found at [this link](https://ieeexplore.ieee.org/document/8964956).
+[comment]:Our paper can be found at [this link](https://ieeexplore.ieee.org/document/8964956).
 
 ## Overview
 - [Dataset](#Dataset)
